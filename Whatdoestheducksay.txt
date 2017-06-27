@@ -1,0 +1,3 @@
+cocodrilo = grr
+dog= wan
+duck= ?
